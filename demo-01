@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>angluar-demo1 表达式</title>
+	<script type="text/javascript" src="angular.min.js"></script>
+</head>
+<body ng-app>
+{{100+100}}
+</body>
+</html>
