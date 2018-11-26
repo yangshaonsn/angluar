@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>angluar-demo3 初始化指令</title>
+	<script src="angular.min.js"></script>
+</head>
+<body ng-app ng-init="name='yangshaonan'">
+	<input ng-model="name">
+	<br>
+	Hello,{{name}}!
+</body>
+</html>
